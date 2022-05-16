@@ -1,6 +1,3 @@
-from zoneinfo import available_timezones
-
-
 class Board:
 
     def __init__(self):
